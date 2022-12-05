@@ -1,2 +1,2 @@
 private/
-git rm --cached .idea/
+git rm --cached main.py
